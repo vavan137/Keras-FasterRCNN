@@ -1,0 +1,1 @@
+python train_frcnn.py -o simple -p C:\Games\НТИ 2023\train\train_augm.txt
